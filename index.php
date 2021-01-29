@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo'<h1> PRIMERA LINEA DE MI PROYECTO GIT. PAULA</h1>';
+        echo'<h1> SEGUNDA LINEA DE MI PROYECTO GIT PARA EJERCICIO 4.C). PAULA</h1>';
         ?>
     </body>
 </html>
